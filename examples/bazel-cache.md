@@ -4,6 +4,7 @@ Bazel breaks a build into discrete steps, which are called actions. Each action 
 
 Incremental builds is one of the major advantages of Bazel. “Incremental” means that Bazel will only rebuild the parts of the source code that is relevant to a change.
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MzQyOTgyNiwtMTcyNTA5MTQ4MV19
+eyJoaXN0b3J5IjpbMTc3NTY2NTc2LC0xNzI1MDkxNDgxXX0=
 -->
