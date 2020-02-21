@@ -1,4 +1,6 @@
-##
+## Shell input/output redirection
+
+> _Please note that the  `n.e.`  in the syntax column means "not existing"._
 
 ```
           || visible in terminal ||   visible in file   || existing
@@ -23,5 +25,5 @@
 |& tee -a ||   yes    |   yes    ||   yes    |   yes    ||  append
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDIwMDkzMzFdfQ==
+eyJoaXN0b3J5IjpbMTMzMjgwMjg4OV19
 -->
