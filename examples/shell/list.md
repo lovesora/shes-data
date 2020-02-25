@@ -3,7 +3,8 @@
 
 ```
 ls -al | order -k 5,5 -n
+ls -al | order -nk 5
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTQ4OTg5OTVdfQ==
+eyJoaXN0b3J5IjpbLTg2NDMxNjY2NSwtMTMxNDg5ODk5NV19
 -->
