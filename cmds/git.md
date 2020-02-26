@@ -7,8 +7,8 @@ git log --diff-filter=D --summary | grep delete
 ## Show file log (include deleted file)
 
 ```bash
-git log --all -- FILEPATH
+git log --all -- ${FILEPATH}
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjIzNjUxNF19
+eyJoaXN0b3J5IjpbLTQ1NzIxNTM5Ml19
 -->
