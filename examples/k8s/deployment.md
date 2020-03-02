@@ -1,7 +1,8 @@
-## 
-```shell
-kubectl rollout history deployment.v1.apps/nginx-deployment --revision=2
+## Checking Rollout History of a Deployment
+
+```bash
+kubectl rollout history deployment ${DEPLOYMENT:-nginx-deployment}
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMDMyNTMwOF19
+eyJoaXN0b3J5IjpbLTIwMTQ3NDU0NDhdfQ==
 -->
