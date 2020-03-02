@@ -3,6 +3,12 @@
 ```bash
 kubectl rollout history deployment ${DEPLOYMENT:-nginx-deployment}
 ```
+
+## Rolling Back to a Previous Revision
+
+```bash
+kubectl rollout undo deployment ${DEPLOYMENT:-nginx-deployment}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTQ3NDU0NDhdfQ==
+eyJoaXN0b3J5IjpbLTgxMTQwOTc4OF19
 -->
