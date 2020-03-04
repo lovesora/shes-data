@@ -2,8 +2,8 @@
 
 ```bash
 npm install -g tldr
-npm install --global @alexlafroscia/tldr-alfred-workflow
+npm install -g @alexlafroscia/tldr-alfred-workflow
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMTAxNTQzMF19
+eyJoaXN0b3J5IjpbLTE3NTU4MTgyMjNdfQ==
 -->
