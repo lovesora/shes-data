@@ -10,6 +10,8 @@ const getServerStuff = ajaxCall;
 
 ## [FP] (first-class function) Define more general and reusable function
 
+- Do not tie ourselves to specific data
+
 ```js
 // specific to our current blog
 const validArticles = articles =>
@@ -31,6 +33,6 @@ fs.readFile('freaky_friday.txt', Db.save);
 fs.readFile('freaky_friday.txt', Db.save.bind(Db));
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgwMzM2NzA4LC0xODExNTE0NzU5LDEzMz
-c4MTg4ODhdfQ==
+eyJoaXN0b3J5IjpbLTY0ODc3MzAxMiwtMTgxMTUxNDc1OSwxMz
+M3ODE4ODg4XX0=
 -->
