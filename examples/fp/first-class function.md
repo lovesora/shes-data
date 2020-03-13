@@ -1,4 +1,4 @@
-## [FP] (first-class function) Do not  
+## [FP] (first-class function) Do not replace with only  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDkzODQ2NTAsMTMzNzgxODg4OF19
+eyJoaXN0b3J5IjpbOTYwODQxNjYwLDEzMzc4MTg4ODhdfQ==
 -->
