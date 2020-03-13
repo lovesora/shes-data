@@ -8,7 +8,16 @@ const getServerStuff = callback => ajaxCall(json => callback(json));
 const getServerStuff = ajaxCall;
 ```
 
-## [FP] (first-class function)
+## [FP] (first-class function) Define more general and reusable function
+
+```js
+// specific to our current blog
+const validArticles = articles =>
+  articles.filter(article => article !== null && article !== undefined),
+
+// vastly more relevant for future projects
+const compact = xs => xs.filter(x => x !== null && x !== undefined);
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NzIwMTQ0OCwxMzM3ODE4ODg4XX0=
+eyJoaXN0b3J5IjpbLTE4MTE1MTQ3NTksMTMzNzgxODg4OF19
 -->
