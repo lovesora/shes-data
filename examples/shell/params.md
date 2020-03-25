@@ -1,4 +1,4 @@
-## Shell parameters
+## Shell positional parameters
 shift is a shell builtin that operates on the positional parameters. Each time you invoke shift, it "shifts" all the positional parameters down by one. $2 becomes $1, $3 becomes $2, $4 becomes $3, and so on.
 
 ```bash
@@ -27,5 +27,5 @@ while [ "$1" != "" ]; do
 done
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNTg4NDc0NV19
+eyJoaXN0b3J5IjpbMzczOTcyMzE5XX0=
 -->
