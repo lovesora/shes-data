@@ -4,7 +4,11 @@
 netstat -nulp
 ```
 
-## 
+## Check if port has been used
+
+```bash
+lsof -i :${port:-80}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQzOTI5ODgxXX0=
+eyJoaXN0b3J5IjpbLTgxMTAwOTYwNl19
 -->
