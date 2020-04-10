@@ -1,7 +1,10 @@
+## List all listened port
 
+```bash
+netstat -nulp
+```
 
-
-> Written with [StackEdit](https://stackedit.io/).
+## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNzQzOTI5ODgxXX0=
 -->
