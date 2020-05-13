@@ -1,8 +1,13 @@
 ## Disable eslint rule
 
 ```js
-/* eslint-disable rule-name */
+/* eslint-disable no-console */
+console.log('x')
+
+// or
+
+console.log('x') // eslint-disable-line no-console
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTY3NzYxOThdfQ==
+eyJoaXN0b3J5IjpbLTUwODEwMjQwMl19
 -->
