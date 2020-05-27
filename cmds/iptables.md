@@ -1,8 +1,8 @@
 ## [iptables] show nat rules
 
 ```bash
-iptables -S -t nat
+tiptables -S -t nat
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDE3Njg5NDVdfQ==
+eyJoaXN0b3J5IjpbLTU0MDAwMjk4MywtMTMwMTc2ODk0NV19
 -->
