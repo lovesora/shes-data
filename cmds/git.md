@@ -9,6 +9,8 @@ git log --diff-filter=D --summary | grep delete
 ```bash
 git log --all -- ${FILEPATH}
 ```
+
+## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NzIxNTM5Ml19
+eyJoaXN0b3J5IjpbOTgzMzQwODg4LC00NTcyMTUzOTJdfQ==
 -->
